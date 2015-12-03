@@ -46,12 +46,26 @@
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
     <Folder Include="app\static\app\fonts\" />
+    <Folder Include="app\static\app\images\" />
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
     <Folder Include="bayesian\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\app\content\carousel.css" />
+    <Content Include="app\static\app\content\carousel_angular.css" />
+    <Content Include="app\static\app\images\carousel1.jpg" />
+    <Content Include="app\static\app\scripts\angular-animate.js" />
+    <Content Include="app\static\app\scripts\angular-route.js" />
+    <Content Include="app\static\app\scripts\angular-sanitize.js" />
+    <Content Include="app\static\app\scripts\angular-touch.js" />
+    <Content Include="app\static\app\scripts\angular.min.js" />
+    <Content Include="app\static\app\scripts\app.js" />
+    <Content Include="app\static\app\scripts\ui-bootstrap-tpls-0.14.3.min.js" />
+    <Content Include="app\templates\app\index3.html" />
+    <Content Include="app\templates\app\index_bootstrap.html" />
+    <Content Include="app\templates\app\index_pyoriginal.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
